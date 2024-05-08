@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Master's Degree Student @ Politecnico di Bari in Computer Engineering - Artificial Intelligence & Data Science  
 * ✉️  You can contact me at [paolomasciullojz4@gmail.com](mailto:paolomasciullojz4@gmail.com)
 * 🚀  I'm currently working on [with a group of students on participating in the RecSys 2024 challenge.](http://recsys.acm.org/recsys24/)
-* 🤝  I'm open to collaborating on internship on artificial intelligence and data science topics
+* 🤝  I'm open to collaborating on Artificial Intelligence, Machine Learning, Deep Learning, Recommender Systems
 
 ### Skills  
 
